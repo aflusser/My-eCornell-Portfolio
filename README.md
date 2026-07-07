@@ -11,7 +11,7 @@ feature selection using scikit-learn.
 |---|---|---|
 | `ModelSelectionForLogisticRegression.ipynb` | Predicting Airbnb superhost status | Logistic Regression, GridSearchCV, ROC/AUC, SelectKBest |
 
-*(Add a new row here each time you upload a new assignment.)*
+<!--*(Add a new row here each time upload a new assignment.)*-->
 
 ## Tools & Libraries
 - Python, Jupyter Notebook
