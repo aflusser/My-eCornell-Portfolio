@@ -9,7 +9,7 @@ feature selection using scikit-learn.
 
 | Notebook | Topic | Key Techniques |
 |---|---|---|
-| `airbnb-superhost-prediction.ipynb` | Predicting Airbnb superhost status | Logistic Regression, GridSearchCV, ROC/AUC, SelectKBest |
+| `ModelSelectionForLogisticRegression.ipynb` | Predicting Airbnb superhost status | Logistic Regression, GridSearchCV, ROC/AUC, SelectKBest |
 
 *(Add a new row here each time you upload a new assignment.)*
 
