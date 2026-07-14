@@ -17,7 +17,7 @@ feature selection using scikit-learn.
 
 ## Tools & Libraries
 - Python, Jupyter Notebook
-- scikit-learn, pandas, seaborn, matplotlib, keras
+- Scikit-Learn, Pandas, Seaborn, Matplotlib, Keras
 
 ## Note
 These notebooks were completed as coursework and may follow assignment templates provided by the course.
