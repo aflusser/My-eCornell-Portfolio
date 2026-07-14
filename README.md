@@ -10,13 +10,14 @@ feature selection using scikit-learn.
 | Notebook | Topic | Key Techniques |
 |---|---|---|
 | `ModelSelectionForLogisticRegression.ipynb` | Predicting Airbnb superhost status | Logistic Regression, GridSearchCV, ROC/AUC, SelectKBest |
+| `ImplementNeuralNetwork.ipynb` | Implementing a Neural Network to Predict Airbnb Superhost Status | Neural Networks, Keras Sequential Model, SGD Optimizer, Binary Cross-Entropy Loss, ReLU Activation, Sigmoid Activation, Confusion Matrix |
+
 
 <!--*(Add a new row here each time upload a new assignment.)*-->
 
 ## Tools & Libraries
 - Python, Jupyter Notebook
-- scikit-learn, pandas, seaborn, matplotlib
+- scikit-learn, pandas, seaborn, matplotlib, keras
 
 ## Note
-These notebooks were completed as coursework and may follow assignment 
-templates provided by the course.
+These notebooks were completed as coursework and may follow assignment templates provided by the course.
