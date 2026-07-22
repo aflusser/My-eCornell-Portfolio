@@ -1,4 +1,4 @@
-# My-eCornell-Portfolio
+# My-Cornell-Portfolio
 Jupyter Notebook assignments from **Machine Learning Foundations** (Cornell).
 
 This repository contains coursework covering core machine learning concepts, 
